@@ -14,7 +14,7 @@ This repository presents a lightweight tweet language model distilled from the p
 ## 🧠 Model Overview
 
 - **Teacher Model**: [Mistral-7B](https://huggingface.co/mistralai/Mistral-7B-v0.1)
-- **Student Model**: A distilled variant of [RoBERTa](https://huggingface.co/roberta-base) fine-tuned on Tamil tweet data
+- **Student Model**: A distilled variant of [RoBERTa](https://huggingface.co/roberta-base) fine-tuned on tweet data
 
 
 
